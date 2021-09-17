@@ -37,6 +37,10 @@ It is extremely exciting to just use big building blocks and design large system
 No need to waste time on something that already "just works"!
 
 
+### Linux
+Yes, I daily-drive Xubuntu and do a lot on the command line. Also I have a home server.
+
+
 ### Security
 Nowadays, it is essential to build systems where security is not just an afterhought.
 My goal is to always remind myself on "how this could be abused" when designing systems or writing code.
