@@ -1,16 +1,21 @@
-### Hi there 👋
+Hello!
+
+I am a Java developer, both at work and at home.
+You will find me working not only on very detailed problems, like fixing a problem with native compilation, but also broader projects, like building libraries to be used by other developers.
+
+I love open source and permissive licenses.
+Without them, most of my work would not exist.
+Therefore, most of my stuff is free too!
+Be sure to borrow stuff if you need it!
+
+## Interests
+As already mentioned in the introduction, I like Java (a lot)!
+Generally I dig into everything I can find about it.
+This is not restricted to language features, but also the JVM itself (and others, GraalVM) and the ecosystem as a whole (all the libraries!).
+
 
 <!--
-**Nithanim/nithanim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+C
+Native
+File formats
 -->
