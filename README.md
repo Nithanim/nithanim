@@ -22,7 +22,10 @@ This is not restricted to language features, but also the JVM itself (and others
 Sometimes you want to do some low-level stuff, requiring talking to the OS itself.
 This is only possible if you can read and write C and have some knowledge about the things running behind the scenes.
 
-Sadly, I have not gotten into C++ yet. But I would like to dive into rust at some point!
+Sadly, I have not gotten into C++ yet. 
+
+### Rust
+I have been trying to get into rust multiple times but not a lot of success yet. Still trying though because it is an amazing language!
 
 
 ### File formats
@@ -38,7 +41,7 @@ No need to waste time on something that already "just works"!
 
 
 ### Linux
-Yes, I daily-drive Xubuntu and do a lot on the command line. Also I have a home server.
+I daily-drive Xubuntu and do a lot on the command line. Also I have a home server. And gaming on linux is definitly a thing!
 
 
 ### Security
