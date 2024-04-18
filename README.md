@@ -14,15 +14,13 @@ Be sure to borrow stuff if you need it!
 
 
 ### Java
-As already mentioned in the introduction, I like Java (a lot)!
+As already mentioned in the introduction, I know Java in and out.
 Generally I dig into everything I can find about it.
 This is not restricted to language features, but also the JVM itself (and others, GraalVM) and the ecosystem as a whole (all the libraries!).
 
 ### C/Native
 Sometimes you want to do some low-level stuff, requiring talking to the OS itself.
 This is only possible if you can read and write C and have some knowledge about the things running behind the scenes.
-
-Sadly, I have not gotten into C++ yet. 
 
 ### Rust
 I finally managed to tip my toes into rust. But there is still a long way to go!
